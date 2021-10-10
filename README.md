@@ -1,3 +1,5 @@
 #README 
 
-Pushing files from GIT and testing out various configs
+Pushing files from WSL and testing out various configuration settings.
+
+Fixing issues with credentials manager in WSL
